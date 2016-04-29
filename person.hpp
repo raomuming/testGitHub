@@ -6,4 +6,5 @@ public:
 private:
     string& name;
     int age;
+    int times;
 };
