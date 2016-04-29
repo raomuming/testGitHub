@@ -3,3 +3,7 @@
 void Person::sayHello(){
   
 }
+
+Person::Person(){
+	
+}
