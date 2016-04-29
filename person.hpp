@@ -9,4 +9,7 @@ private:
     string& name;
     int age;
     int times;
+
+private:
+	bool isFemale();
 };
